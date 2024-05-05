@@ -1,7 +1,7 @@
-Hi 👋 My name is Ambikesh kr Gautam
+Hello 👋 #Ambikesh is here
 ===================================
 
-Sofware Developer ( Web Ghost )
+Sofware Developer
 -------------------------------
 
 A Web Developer is a professional who is responsible for the design and construction of websites but here I'm a bit different more than a developer I make things better by applying some worst/best feedback from my past. I just do not ensure that sites meet user expectations only I ensure they look good as well, and run smoothly. I love to get collaborate with open source, I'm very open you can write me at dev.ambikesh@gmail.com anytime.
@@ -22,10 +22,18 @@ src="https://img.shields.io/github/followers/nerdambikesh?logo=github&style=for-
   * ⚡  C.
   * ⚡  C++.
   * ⚡  PHP.
+  * ⚡  Laravel.
+  * ⚡  PHP Framworks
   * ⚡  JavaScript.
+  * ⚡  Node.js.
   * ⚡  JQuery.
   * ⚡  MySql.
-  * ⚡  Rest APIs.
+  * ⚡  Mongodb.
+  * ⚡  WordPres.
+  * ⚡  WooCommerce.
+  * ⚡  Woo Expert.
+  * ⚡  REST API and Integration Expert.
+  * ⚡  Open source nerd.
   * ⚡  Shopify Liquid.
 </p>
 
