@@ -4,7 +4,7 @@ Hello 👋 #Ambikesh is here
 Sofware Developer
 -------------------------------
 
-A Web Developer is a professional who is responsible for the design and construction of websites but here I'm a bit different more than a developer I make things better by applying some worst/best feedback from my past. I just do not ensure that sites meet user expectations only I ensure they look good as well, and run smoothly. I love to get collaborate with open source, I'm very open you can write me at dev.ambikesh@gmail.com anytime.
+I’m not just a Web Developer—I’m a digital craftsman who builds and improves websites using the lessons learned from both triumphs and challenges. My mission? To create web experiences that look great, run smoothly, and exceed user expectations. I thrive on collaboration, especially in the open-source community. Feel free to reach out anytime at dev.ambikesh@gmail.com—let’s build something amazing together!
 
 * 🌍  I'm based in India Lucknow
 * ✉️  You can contact me at [dev.ambikesh@gmail.com](mailto:dev.ambikesh@gmail.com)
