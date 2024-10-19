@@ -1,49 +1,68 @@
-Hello 👋 #Ambikesh is here
+# Hello 👋, Ambikesh Kumar Gautam here!  
 ===================================
 
-Sofware Developer
+### Senior Software Engineer | Digital Craftsman
 -------------------------------
 
-I’m not just a Web Developer—I’m a digital craftsman who builds and improves websites using the lessons learned from both triumphs and challenges. My mission? To create web experiences that look great, run smoothly, and exceed user expectations. I thrive on collaboration, especially in the open-source community. Feel free to reach out anytime at dev.ambikesh@gmail.com—let’s build something amazing together!
+I’m Ambikesh, a Senior Software Engineer with a passion for building impactful web experiences that combine functionality, aesthetics, and user-centric design. Whether I'm crafting clean, efficient code or solving complex technical problems, my goal is to create digital solutions that elevate businesses and enhance user satisfaction.
 
-* 🌍  I'm based in India Lucknow
-* ✉️  You can contact me at [dev.ambikesh@gmail.com](mailto:dev.ambikesh@gmail.com)
-* 🧠  I'm learning Node js, Datastructure and Algorithm
-* 🤝  I'm open to collaborating on WordPress and Woocommerce Core
-* ⚡  I let my success make noice before any achievment I just lost myself in that to make happen.
+Currently, I’m working at CedCoss Technology Pvt Ltd, where I lead cross-functional teams and drive the development of high-quality web applications. With 5+ years of experience in e-commerce, API integrations, and content management systems, I’m constantly evolving my skill set and contributing to the open-source community. Let's connect, collaborate, and create something extraordinary together!
 
-<a href="https://www.github.com/nerdambikesh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nerdambikesh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+📧 You can reach me anytime at: [dev.ambikesh@gmail.com](mailto:dev.ambikesh@gmail.com)
 
-### Skills
+---
 
+### 🌟 What I'm working on:
+- Developing scalable applications using **PHP, Laravel, WordPress, WooCommerce**
+- Learning and mastering **Node.js**, **Data Structures**, and **Algorithms**
+- Collaborating on **open-source projects** related to WordPress and WooCommerce Core
 
-<p align="left">
-  * ⚡  C.
-  * ⚡  C++.
-  * ⚡  PHP.
-  * ⚡  Laravel.
-  * ⚡  PHP Framworks
-  * ⚡  JavaScript.
-  * ⚡  Node.js.
-  * ⚡  JQuery.
-  * ⚡  MySql.
-  * ⚡  Mongodb.
-  * ⚡  WordPres.
-  * ⚡  WooCommerce.
-  * ⚡  Woo Expert.
-  * ⚡  REST API and Integration Expert.
-  * ⚡  Open source nerd.
-  * ⚡  Shopify Liquid.
-</p>
+### ⚡ Fun fact:
+I let my success make the noise. Before any achievement, I dive deep into the work and lose myself in making it happen!
 
+---
 
-### Badges
+### 💼 Experience:
+- **Senior Software Developer at CedCoss Technology Pvt Ltd (March 2020 - Present)**
+  - Leading full-cycle projects, from ideation to deployment
+  - Optimizing application performance and reducing load times by 30%
+  - Mentoring junior developers and contributing to code quality improvements
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/nerdambikesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nerdambikesh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🧑‍💻 Technical Skills:
 
-<b>Top Repositories</b>
+- **Languages**: C, C++, PHP, JavaScript (ES6)
+- **Frameworks**: Laravel, WordPress, WooCommerce
+- **Databases**: MySQL, MongoDB
+- **API Technologies**: REST, SOAP, OAuth
+- **Containerization**: Docker
+- **eCommerce Integrations**: Shopify, Amazon, Etsy, eBay, Walmart, and more
+- **Version Control**: Git, GitHub
+- **CI/CD Tools**: Jenkins, GitHub Actions
 
-<div width="100%" align="center"><a href="https://github.com/nerdambikesh/https://github.com/nerdambikesh/NodeJs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nerdambikesh&repo=NodeJs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+### 🤝 Let’s collaborate:
+- Open to contributions on **WordPress**, **WooCommerce**, and **Laravel** projects
+- Excited to work on **e-commerce platforms**, **API integrations**, and **automation projects**
+
+---
+
+### 🌍 More about me:
+- I'm based in **Lucknow, India** 🇮🇳
+- Fluent in **English** and **Hindi**
+- Always looking to grow, learn, and connect with like-minded professionals
+
+---
+
+### 📈 GitHub Stats:
+
+<a href="https://www.github.com/nerdambikesh" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/nerdambikesh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nerdambikesh&show_icons=true&theme=radical)
+
+---
+
+Feel free to check out my repositories, and don’t hesitate to reach out if you’re looking for a developer to collaborate with or need help with a project. Let’s build something amazing together!
